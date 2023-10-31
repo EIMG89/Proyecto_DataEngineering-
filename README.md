@@ -1,4 +1,4 @@
-# Proyecto_DataEngineering-
+# Proyecto_DataEngineering
 Desafío Final del curso Data Engineering de Coderhouse
 # ETL completo en Airflow
 Para finalizar el curso y poner en práctica todos los conocimientos adquiridos se propone crear un pipeline que extraiga datos de una API pública de forma constante combinándolos con información extraída de una base de datos y colocándolos en un Data Warehouse.
