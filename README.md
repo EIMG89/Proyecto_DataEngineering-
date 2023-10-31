@@ -20,5 +20,5 @@ Para lograr los objetivos se presentarán tres entregables a lo largo del curso,
 #### Entregable 1 / Desafío 1
 Script que extraiga datos de una API pública y crear la tabla en Redshift para posterior carga de sus datos.
 - Objetivos especificos:
-✓  El script debería extraer datos en JSON y poder leer el formato en un diccionario de Python.
-✓ La entrega involucra la creación de una versión inicial de la tabla donde los datos serán cargados posteriormente.
+ 1. El script debería extraer datos en JSON y poder leer el formato en un diccionario de Python.
+ 2. La entrega involucra la creación de una versión inicial de la tabla donde los datos serán cargados posteriormente.
